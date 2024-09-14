@@ -1,0 +1,21 @@
+.container {
+  max-width: 450px;
+  border: 3px solid rgb(236, 216, 216);
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  margin: 15px 0;
+  text-align: center;
+}
+.inputs {
+  margin-left: 5px;
+  margin-bottom: 20px;
+  padding: 7px 14px;
+}
+.btnSubmit {
+  padding: 7px 14px;
+  border: 3px solid rgb(236, 216, 216);
+  background-color: #e9dbdb71;
+}
